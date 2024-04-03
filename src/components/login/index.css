@@ -1,0 +1,26 @@
+.login1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    color:white;
+    background-color: black;
+}
+
+.card1{
+    border-width:2px;
+    border-color: white;
+    border-style: solid;
+    padding:18px;
+    width:300px;
+    
+}
+
+.btn12{
+    background-color: blue;
+    color:white;
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 8px;
+}

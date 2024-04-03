@@ -1,0 +1,13 @@
+.logo{
+    height:200px;
+    width:200px;
+}
+
+.card{
+    margin:20px;
+    color:white;
+}
+
+.nav-link{
+    text-decoration: none;
+}

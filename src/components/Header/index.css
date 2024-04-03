@@ -1,0 +1,20 @@
+.header-bg{
+    width: 20vw;
+    height:100vh;
+    margin-top: 0px;
+}
+
+.name-bg{
+    display: flex;
+    width:100vw;
+    background-color: grey;
+    flex-direction: row;
+    justify-content: center;
+    margin:0px;
+}
+
+.head1{
+    color:white;
+    text-decoration: none;
+}
+

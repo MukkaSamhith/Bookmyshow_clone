@@ -1,0 +1,45 @@
+.pra{
+    background-color: black;
+}
+
+.pra1{
+    display: flex;
+
+}
+
+.displayMovie{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.siri1{
+    display: flex;
+    flex-direction: column;
+}
+
+.search1{
+    margin:20px;
+    width:30vw;
+}
+
+.error{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.error-heading{
+    color:white;
+}
+
+.latha1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.par{
+    color: white;
+    margin-right:10px;
+}

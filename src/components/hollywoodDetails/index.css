@@ -1,0 +1,30 @@
+.detail-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.sam{
+    background-color: black;
+    height:120vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:white;
+}
+
+.sam1{
+    color: white;
+}
+.sam2{
+    width:1000px;
+}
+
+.btn21{
+    background-color: red;
+    color:white;
+    padding:10px;
+    margin: 10px;
+    border-width:0px;
+}
